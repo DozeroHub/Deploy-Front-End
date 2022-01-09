@@ -1,5 +1,9 @@
 postagem-edit{
-  padding-bottom: 69px;
+  padding-bottom: 350px;
+}
+
+.tamanho{
+  padding-bottom: 198px;
 }
 
 #color{
@@ -7,5 +11,5 @@ postagem-edit{
 }
 
 #back{
- background-color: #9370db;
+ background-color: #b599ee;
 }
